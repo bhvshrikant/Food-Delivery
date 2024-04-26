@@ -4,6 +4,7 @@ Here, you'll find extensive case studies on some of the most "difficult-to-work-
 ## Table of contents :
 
 1. Zomato Case Study
+2. Bolt Demand Supply Case Study
 
 ## **Zomato Case Study**
 
@@ -22,8 +23,6 @@ The case study aims to understand and the best locations, price range, cuisines 
 ### Files
 - `Zomato_Food_Delivery_Shrikant_Bhv.ipynb`: Jupyter Notebook containing the complete analysis.
 - `zomato_dataset_user.csv`: Dataset used for the analysis
-
-2. Bolt Demand Supply Case Study
 
 ## **Bolt Demand Supply Case Study**
 
